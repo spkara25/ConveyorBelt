@@ -268,5 +268,5 @@ elif data_source == "Manual Sensor Input":
 
 # ---------- FOOTER ----------
 st.markdown("---")
-st.markdown("Developed with ❤️ using Streamlit | [Your Company/Name]")
+st.markdown("Developed with ❤️ using Streamlit")
 
